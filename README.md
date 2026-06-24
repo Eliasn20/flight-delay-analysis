@@ -55,13 +55,13 @@ Streamlit app with sidebar airline filter, key metrics row, and responsive chart
 
 The interactive Streamlit dashboard supports filtering by airline, with metrics and charts updating based on user selection.
 
-![Dashboard default view showing all airlines](dashboard/screenshots/Screenshot default.png)
+![Dashboard default view showing all airlines](dashboard/screenshots/Screenshot_default.png)
 
 The sidebar dropdown lists 18 airlines with 10,000+ flights in the dataset. Selecting an airline updates the metrics row (total flights, delay rate, average delay) and both charts.
 
-![Endeavor Air departure delays by day of week](dashboard/screenshots/Screenshot week graph 9E example.png)
+![Endeavor Air departure delays by day of week](dashboard/screenshots/Screenshot_week_graph_9E_example.png)
 
-![Endeavor Air departure delays by month](dashboard/screenshots/Screenshot month graph 9E example.png)
+![Endeavor Air departure delays by month](dashboard/screenshots/Screenshot_month_graph_9E_example.png)
 
 Switching airlines reveals different operational patterns — for example, regional carriers like Endeavor (9E) show different seasonal behavior than major hubs.
 
